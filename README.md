@@ -22,7 +22,7 @@ It can be played casually or competitively, and it's suitable for players of all
   The code includes functions to handle game logic such as initializing the game ('init'), switching players ('switchPlayer'), rolling the dice ('btnRoll' event listener), holding the score ('btnHold' event listener), and starting a new game ('btnNew' event listener).
 - Variables and Data Structures
 
-  The code uses variables like 'scores', 'currentScore', 'activePlayer', and 'playing' to keep track of the game total scores, current score, current active player, and state.
+  The code uses variables like 'scores', 'currentScore', 'activePlayer', and 'playing' to keep track of total scores, current score, current active player, and the game state.
 - CSS Manipulation
 
   The code modifies CSS classes ('classList') to show or hide elements ('hidden class') and switch styles ('player--active', 'player--winner').
