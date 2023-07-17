@@ -25,7 +25,7 @@ It can be played casually or competitively, and it's suitable for players of all
   The code uses variables like 'scores', 'currentScore', 'activePlayer', and 'playing' to keep track of total scores, current score, current active player, and the game state.
 - CSS Manipulation
 
-  The code modifies CSS classes ('classList') to show or hide elements ('hidden class') and switch styles ('player--active', 'player--winner').
+  The code modifies CSS classes ('classList') to show or hide elements ('hidden' class) and switch styles ('player--active', 'player--winner').
 
 
   
