@@ -7,7 +7,7 @@ It can be played casually or competitively, and it's suitable for players of all
 
 1. Both start with a score of 0.
 1. On each turn, you'll roll the dice by clicking roll dice button
-1. After each roll, You can see your score for that turn from the dice and choose to roll again or hold.
+1. After each roll, you can see your score for that turn from the dice, then choose to roll again or hold.
     - If you choose to roll again, your turn continues, and your points for that turn keep accumulating.
     - If you roll again and get dice with value 1 (one), you lose all the points for that turn, and your turn ends.
     - If you choose to hold, your accumulated points for that turn will be added to your total score, and your turn ends.
