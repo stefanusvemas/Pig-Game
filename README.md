@@ -1,4 +1,6 @@
 # Pig-Game
+[Play Now](http://github.vemas.dev/Pig-Game/)
+
 The pig game is a casual and entertaining dice game that combines luck and strategy. 
 It can be played casually or competitively, and it's suitable for players of all ages.
 ## How to play
